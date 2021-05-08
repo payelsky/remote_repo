@@ -1,2 +1,1 @@
-first line in file1.txt
-This line added by developer b
+New file by dev B
